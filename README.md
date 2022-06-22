@@ -1,6 +1,6 @@
 # C language compiler
 
-# 사용환경 : nix
+# 사용환경 : unix
 
 # 사용법
 
